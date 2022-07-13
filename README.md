@@ -1,5 +1,5 @@
 # Forward-Client
-This is Telegram Messages Forwarder Userbot by [@AbirHasan2005](https://github.com/AbirHasan2005).
+This is Telegram Messages Forwarder Userbot by [@AbirHasan2005](https://github.com/jagan1857).
 
 Use this at your own risk. I will not be responsible for any kind of issue while using this! Better use a different Telegram Account instead of using Main Telegram Account.
 
@@ -38,7 +38,7 @@ Use this at your own risk. I will not be responsible for any kind of issue while
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/_xuptk2KUbk)
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/Forward-Client)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jagan1857/Forward-Client)
 
 ### Host Locally:
 ```sh
